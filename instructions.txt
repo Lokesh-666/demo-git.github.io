@@ -1,0 +1,9 @@
+1. Create a new folder named 'sample-website' on your desktop.
+
+2. Inside the 'sample-website' folder, create two new files: 'index.html' and 'style.css'.
+
+3. Open the 'index.html' file in a text editor and add the following code:
+
+4. Open the 'style.css' file in a text editor and add the following code:
+
+5. Save both files and open the 'index.html' file in a web browser to see the sample website.
